@@ -1,10 +1,5 @@
 [
 	{
-		"name": "Firewall policies",
-		"deeplink": "/?to=/:account/network-security/magic_firewall/custom",
-		"parent": ["Networking"]
-	},
-	{
 		"name": "BYOIP",
 		"deeplink": "/?to=/:account/ip-addresses/ip-prefixes",
 		"parent": ["Networking", "IP addresses"]
